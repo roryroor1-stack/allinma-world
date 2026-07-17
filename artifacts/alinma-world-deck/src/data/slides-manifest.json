@@ -1,0 +1,114 @@
+[
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567801",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide01Title.tsx",
+    "title": "الواجهة الرئيسية",
+    "description": "Allinma World — زد الانتماء",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567802",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide02Agenda.tsx",
+    "title": "جدول المحتويات",
+    "description": "نظرة عامة على محاور العرض",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567803",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide03Team.tsx",
+    "title": "أعضاء فريق مشروع: زد الانتماء",
+    "description": "رحاب — حسناء — جمانه",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567804",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide04Problem.tsx",
+    "title": "المشكلة وحلها",
+    "description": "المشكلة: ضعف الدافعية المالية — الحل: عالم روبلوكس التفاعلي",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567805",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide05Idea.tsx",
+    "title": "وصف ومواءمة الفكرة للمسار",
+    "description": "لعبة عامل الإنماء — المواءمة الاستراتيجية",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567806",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide06Data.tsx",
+    "title": "البيانات المستخدمة وكيفية توفيرها",
+    "description": "مصادر البيانات ومعالجتها واستخدامها",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567807",
+    "position": 7,
+    "filepath": "src/pages/slides/Slide07Tech.tsx",
+    "title": "التقنيات المستخدمة",
+    "description": "Luau — Roblox Studio — Roblox DataStore",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567808",
+    "position": 8,
+    "filepath": "src/pages/slides/Slide08Testing.tsx",
+    "title": "الاختبار والتحقق",
+    "description": "نتائج النموذج الأولي — 50% مكتمل",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567809",
+    "position": 9,
+    "filepath": "src/pages/slides/Slide09Demo.tsx",
+    "title": "العرض التوضيحي",
+    "description": "لقطات وميزات اللعبة الحية",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567890",
+    "position": 10,
+    "filepath": "src/pages/slides/Slide09GameLink.tsx",
+    "title": "التجربة الحية والجاهزية الكاملة",
+    "description": "رابط اللعبة المباشر على روبلوكس",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567810",
+    "position": 11,
+    "filepath": "src/pages/slides/Slide10Challenges.tsx",
+    "title": "التحديات والخطط المستقبلية",
+    "description": "التحديات الثلاثة والحلول المقترحة",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567811",
+    "position": 12,
+    "filepath": "src/pages/slides/Slide11Support.tsx",
+    "title": "ما تحتاج إلى مساعدة فيه",
+    "description": "Sandbox API والإرشاد التقني",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567812",
+    "position": 13,
+    "filepath": "src/pages/slides/Slide12Roadmap.tsx",
+    "title": "خارطة الطريق التنفيذية",
+    "description": "ثلاثة أيام — اليوم الأول والثاني والثالث",
+    "speakerNotes": ""
+  },
+  {
+    "id": "f1a2b3c4-d5e6-7890-abcd-ef1234567813",
+    "position": 14,
+    "filepath": "src/pages/slides/Slide13ThankYou.tsx",
+    "title": "شكراً لكم",
+    "description": "عالم الإنماء | Allinma World — فريق زد الانتماء",
+    "speakerNotes": ""
+  }
+]

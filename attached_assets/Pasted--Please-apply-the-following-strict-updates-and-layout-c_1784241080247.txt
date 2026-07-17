@@ -1,0 +1,21 @@
+"Please apply the following strict updates and layout corrections to the project immediately:
+✨ 1. Project Name Spelling Update (Allinma world)
+ Immediately update and correct the spelling of the project name across all files, slides, and text components to use exactly two 'l's in the brand name as follows:
+ Correct Name: Allinma world  
+ Scan the entire project and replace any other spelling or casing of the project name with this exact format immediately!
+🛠️ 2. Slide Layout Cleanup (Remove DataStore Card)
+ Completely DELETE the first card on the left regarding 'Roblox DataStore / قاعدة البيانات' from this slide layout immediately.
+ The slide must now only display the remaining two components:
+1. Roblox Studio (بيئة التطوير)
+2. Luau Scripting (لغة البرمجة)
+ Adjust the layout to center and balance these two remaining cards correctly over the dark background.
+🎮 3. 'التجربة الحية' Slide (Fix Buttons, Add Single Large Arrow & Video Link)
+ On the standalone game link slide, REMOVE the multiple buttons or repeated small text indicators. Keep only ONE SINGLE, LARGE, and highly prominent visual arrow pointing directly to the main action button so users clearly see where to click to test the live game.
+ NEW ADDITION: Below the main action button, add a clean secondary text link component for judges/evaluators who might not want to enter the live game or log into their accounts. Format it beautifully with the following text and exact URL:
+ العرض المرئي التوضيحي (في حال عدم الرغبة بالدخول للعبة): Https://youtu.be/gR_464N-M38?si=kW6x0ql3p2YwgVn0
+ Gameplay Showcase Video (Alternative for Evaluators): Https://youtu.be/gR_464N-M38?si=kW6x0ql3p2YwgVn0
+🎯 4. Update 'نطاق المشروع' Slide Content (Remove زر العامل)
+ On Slide 12 ('نطاق المشروع – ما تم وما هو قادم'), access the 'ما تم إنجازه (In-Game Features)' section.
+ Completely DELETE the badge/text 'زر العامل' from this list immediately.
+ Keep all other items in this section exactly as they are (البنك الأول، نظام الدوام، العملاء NPC، عمليات السحب، نظام المكافآت، بناء البنك الثاني، مكتب المدير).
+Execute these precise text and layout changes now!"

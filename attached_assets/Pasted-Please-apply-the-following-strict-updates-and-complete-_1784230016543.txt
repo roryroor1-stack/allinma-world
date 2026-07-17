@@ -1,0 +1,21 @@
+Please apply the following strict updates and complete visual overhaul to the project deck immediately. Treat this as a single unified task:
+🚨 1. Complete Visual & Color Overhaul (Gaming Vibe)
+ Change the Theme: The current dark and gold color scheme is too dull, formal, and depressing for a gaming project. This is a vibrant Roblox game!
+ New Color Palette: Transition to a fresh, energetic, and vibrant color palette. Use bright brand colors matching Alinma Bank's blue paired with fresh neon accents (like vibrant cyan, gaming green, or light energetic shades).
+ Aesthetic: Make the slides look like a modern, lively gaming dashboard. Use clean white/light backgrounds with energetic color highlights, playful icons, and friendly UI borders. It must immediately look like a game presentation at first glance.
+2. First Page (Main Cover) Updates
+ Background: Change the background of the first slide to an immersive visual of a Roblox world, or a high-quality scene showing a modern bank building and skyscrapers.
+ Header Text: Change the text at the top from 'هاكاثون الإنماء' to 'هاكاثون آمد'.  
+ Main Title: Change the large white central word to 'Alinma World' and ensure it is perfectly centered.  
+ Game Link Integration: Embed our live Roblox game link as a prominent interactive button or link on this preview slide:
+⁠[https://www.roblox.com/fr/games/119781384879094/Allinma-world](https://www.roblox.com/fr/games/119781384879094/Allinma-world)⁠
+3. 'الاختبار والتحقق' Slide Updates
+ Completely remove 'نظام صراف آلي' and any reference to 'ATM' from this slide.  
+ Replace it entirely with the following text:
+'نظام خزينة المال: اختبار التفاعل مع خزينة سحب الأموال والتحقق من منع تكرار السحب المتسارع عبر معالجة النقرات السريعة، وعدم فتح الخزينة إلا عند وجود طلب لعميل.'  
+4. 'العرض التوضيحي' Slide Updates (Based on the Provided UI)
+ Orange Section (حركة العملاء NPCs): Update the description to:
+'عملاء افتراضيون يتحركون ويتفاعلون مع موظف البنك في الوقت الحقيقي'  
+ Pink Section (مهام الصراف الآلي): Change the main section title to:
+'مهام موظف البنك'  
+Apply all these visual theme transformations and text adjustments now to finalize the presentation perfectly."

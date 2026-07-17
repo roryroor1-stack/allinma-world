@@ -1,0 +1,35 @@
+"Please apply the following specific corrections and layout adjustments to the presentation slides immediately:
+🚨 1. 'التحديات والمستقبل' Slide Cleanup (Keep ONLY Two Cards)
+ DELETE the entire second card (02) regarding 'موافقة مصرف الإنماء على الهوية البصرية' completely. It must not exist on this slide anymore.
+ The slide must now have ONLY TWO CARDS in total:
+ Card 1 (01): 'متطلبات الامتثال والمراجعة من المنصة'.
+ Card 2 (02): 'تحدي التصنيف العمري المؤقت للمنصة (+16)' (Due to script filtering, not data loading).
+ Colors: Apply a strict dark-navy and white theme. NO Yellow, NO Neon, NO Cyan. Card backgrounds must be a slightly lighter tint of navy blue (#10355A) resting over the main dark navy background (#002447). All text, titles, numbers, and solution badges must be Pure White (#FFFFFF).
+🎮 2. 'التجربة الحية' Slide (Add Visual Arrows)
+ On the standalone game link slide, modify the Action Button component layout:
+ Add clear visual arrows (➔ or ⬇️ or ⬇️⬇️) pointing directly to the button to explicitly show users exactly where to click to test the live game.
+🛠️ 3. 'الاختبار والتحقق' Slide Content & Progress Update
+ Completely REMOVE any mention of 'DataStore' from this slide since there is no active loaded data yet.
+ Update the Content to:
+'نظام خزينة أموال ونظام الـ Leaderstats للأصل العقاري: اختبار التفاعل مع خزينة سحب الأموال والتحقق من منع تكرار السحب المتسارع عبر معالجة النقرات السريعة، وتحديث لوحة الصدارة (Leaderstats) للأصول العقارية فورياً.'
+ Prototype Readiness Update: Raise the prototype readiness percentage from 50% to exactly 90% (جاهزية البروتوتايب التشغيلي: 90%).
+🗓️ 4. Update the 3-Day Timeline & Phases
+Replace the timeline and roadmap slides with this precise structure:
+ اليوم الأول: البنك الأول، الدوام، العملاء، السحب، تسليم الأموال، المكافآت.
+ اليوم الثاني: نظام البناء، مراحل البنك الثاني، الأثاث، مكتب المدير، زر العامل.
+ اليوم الثالث: اختبار اللعبة، تنظيم السكربتات، إصلاح الأخطاء، تجهيز العرض، توثيق التطويرات المستقبلية.
+🎯 5. Update Project Scope (What's Done vs. Future)
+Format the project progress exactly with these two sections:
+ ما تم إنجازه (In-Game Features):
+ البنك الأول • نظام الدوام • العملاء NPC • عمليات السحب • نظام المكافآت • بناء البنك الثاني • مكتب المدير • زر العامل.
+ التطويرات المستقبلية (Future Roadmap):
+ إكمال نظام العامل وتشغيله تلقائيًا • ترقية اللاعب إلى مدير ونظام مكتب المدير • عملاء VIP (إيداع مليون ريال وطلبات القروض) • نظام المهام والإشعارات والإرشاد • حفظ التقدم (حفظ الرصيد والوظيفة والمهام) • تحسين الذكاء الاصطناعي للعملاء (طابور وحركة سلسة) • توسيع الفروع البنكية والمدينة.
+🏆 6. Update the Future Gameplay Loop
+ رحلة اللاعب الكاملة مستقبلاً:
+موظف بنك ➔ يخدم العملاء ➔ يجمع المال ➔ يفتح زر العامل ➔ يشتري العامل ➔ العامل يستلم البنك الأول ➔ يبدأ بناء البنك الثاني ➔ يكمل مكتب المدير ➔ يصبح مديرًا ➔ يستقبل عميل VIP ➔ ينفذ إيداع مليون ريال ➔ يعالج طلبات القروض ➔ يفتح فروعًا جديدة ➔ يبني إمبراطورية مصرفية.
+💜 7. Add Final Closing Slide (Thank You)
+Add a dedicated final slide with the following closing text, maintaining the same dark navy and pure white theme:
+ 'شكراً لكم / Thank You'
+ Project Name: عالم الانماء | Alinma World
+ Team Name: فريق زد الانتماء
+Execute these precise text and layout changes now!"

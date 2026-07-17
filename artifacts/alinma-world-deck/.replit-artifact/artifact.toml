@@ -1,0 +1,27 @@
+kind = "slides"
+previewPath = "/alinma-world-deck/"
+title = "Alinma World — هاكاثون الإنماء 26"
+version = "1.0.0"
+id = "artifacts/alinma-world-deck"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/alinma-world-deck/" ]
+localPort = 25463
+
+[services.development]
+run = "pnpm --filter @workspace/alinma-world-deck run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/alinma-world-deck", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/alinma-world-deck/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "25463"
+BASE_PATH = "/alinma-world-deck/"
