@@ -2,3 +2,4 @@ node_modules/
 dist/
 .local/
 attached_assets/
+*.rbxl.lock

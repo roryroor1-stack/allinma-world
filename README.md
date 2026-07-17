@@ -27,7 +27,14 @@ artifacts/alinma-world-deck/
 ├── src/pages/slides/     # 14 شريحة
 ├── public/               # الصور والأصول
 └── src/data/             # بيانات الشرائح
+
+roblox/
+└── AllinmaWorld.rbxl     # ملف المشروع الكامل — Roblox Studio
 ```
+
+## 🕹️ ملف Roblox Studio
+
+الملف `roblox/AllinmaWorld.rbxl` يحتوي على كامل كود اللعبة وبيئتها — افتحه مباشرة في **Roblox Studio** للتعديل أو الاستعراض.
 
 ---
 
