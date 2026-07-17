@@ -1,4 +1,4 @@
-# Allinma World — هاكاثون الإنماء 26
+# Allinma World — هاكاثون أمد 26
 
 > تجربة تفاعلية غامرة لبناء الوعي المالي لدى الجيل الرقمي
 
@@ -29,13 +29,23 @@ artifacts/alinma-world-deck/
 └── src/data/             # بيانات الشرائح
 
 roblox/
-└── AllinmaWorld.rbxl     # ملف المشروع الكامل — Roblox Studio
+├── AllinmaWorld.rbxl           # ملف المشروع الكامل — Roblox Studio
+└── scripts/
+    ├── BankShiftScript.lua     # فتح وإغلاق دوام موظف البنك
+    └── AllScripts_Combined.lua # جميع الأكواد مجمّعة في ملف واحد
 ```
-
-## 🕹️ ملف Roblox Studio
-
-الملف `roblox/AllinmaWorld.rbxl` يحتوي على كامل كود اللعبة وبيئتها — افتحه مباشرة في **Roblox Studio** للتعديل أو الاستعراض.
 
 ---
 
-*مشروع هاكاثون الإنماء 26 — مسار التلعيب*
+## 🧩 أكواد اللعبة
+
+| الملف | الوظيفة |
+|-------|---------|
+| `BankShiftScript.lua` | يتحكم في بدء وإنهاء دوام موظف البنك عبر Proximity Prompts |
+
+> 📂 جميع الأكواد موجودة في مجلد [`roblox/scripts/`](./roblox/scripts/)
+> — أو اقرأها مجمّعة في [`AllScripts_Combined.lua`](./roblox/scripts/AllScripts_Combined.lua)
+
+---
+
+*مشروع هاكاثون أمد 26 — مسار التلعيب*
